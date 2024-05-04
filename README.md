@@ -1,8 +1,10 @@
 <div align="center">
-<img src="https://avatars.githubusercontent.com/u/128584849?v=2" align="center" height="" border-radius="100px" width="150" />
-</div>  
+<img src="https://avatars.githubusercontent.com/u/128584849?v=2" align="center" height=""  width="150"  />
+</div>
+
+
   
-### <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Vinay+Welcome+to+my+Github+Profile!" align="middle" alt="Hey, I'm Vinay Welcome to my Profile! animated typed out">
+### <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=25&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=700&height=50&lines=Hey%2C+I'm+Vinay+Welcome+to+my+Github+Profile!" align="middle" alt="Hey, I'm Vinay Welcome to my Profile! animated typed out">
 
   
 
@@ -16,7 +18,8 @@
   
 
 <br/>  
-## Connect with me: 
+
+# 🌐 Connect with me: 
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/vinay333) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gadde_vinay) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vinay-gadde) 
 <br/>
