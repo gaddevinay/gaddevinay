@@ -65,25 +65,24 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vinaygadde&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=vinaygadde&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vinaygadde&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
+![](https://github-readme-stats.vercel.app/api?username=gaddevinay&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=gaddevinay&theme=dark&hide_border=false)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaddevinay&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+	
 
 <br />
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vinaygadde&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=gaddevinay&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vinaygadde&icon=5&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=gaddevinay&icon=5&color=0)](https://visitcount.itsvg.in)
 
 <br/>  
    
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=vinaygadde&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=gaddevinay&&style=flat-square" align="center" />
 </div>  
   
 
