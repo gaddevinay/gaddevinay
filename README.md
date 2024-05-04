@@ -2,8 +2,8 @@
 <img src="https://avatars.githubusercontent.com/u/128584849?v=2" align="center" height="" width="150" />
 </div>  
   
+### <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Vinay+Welcome+to+my+Github+Profile!" align="middle" alt="Hey, I'm Vinay Welcome to my Profile! animated typed out">
 
-### <div align="center">I'm Vinay, student at Sir C.R.Reddy college of engineering </div>  
   
 
 - 🔭 I’m currently working on [Front-end Development]()  
@@ -67,7 +67,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=gaddevinay&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gaddevinay&theme=dark&hide_border=false)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaddevinay&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gaddevinay&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 	
 
 <br />
