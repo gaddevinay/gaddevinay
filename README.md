@@ -43,9 +43,5 @@
 [![](https://visitcount.itsvg.in/api?id=gaddevinay&icon=5&color=0)](https://visitcount.itsvg.in)
 
 <br/>  
-   
 
-[![](https://visitcount.itsvg.in/api?id=gaddevinay&icon=0&color=0)](https://visitcount.itsvg.in)
-  
-
-<br/>  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&weight=400&size=35&pause=1000&color=F77D3E&center=true&vCenter=true&random=false&width=500&height=100&lines=Thanks+for+Visiting+)](https://git.io/typing-svg)
