@@ -6,7 +6,7 @@
 
   
 
-- 🔭 I’m currently working on [Front-end Development]()  
+- 🔭 I’m currently working on [DSA]()  
   
 
 - 🌱 I’m currently learning Django  
