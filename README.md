@@ -9,10 +9,10 @@
 - 🔭 I’m currently working on [DSA]()  
   
 
-- 🌱 I’m currently learning Django  
+- 🌱 I’m currently learning DSA 
   
 
-- ❓ Ask me about anything related to Front-end Development   
+- ❓ Ask me about anything related to DSA   
   
 
 <br/>  
