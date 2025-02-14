@@ -8,9 +8,13 @@
 
 - 🔭 I’m currently working on [DSA]()  
   
-
 - 🌱 I’m currently learning DSA 
   
+- 👨‍💻 All of my projects are available at [My Portfolio](https://gaddevinay.github.io/PORTFOLIO/)
+
+- 📫 How to reach me **vinaygadde2005@gmail.com**
+
+- 📄 Know about my experiences [Resume](https://gaddevinay.github.io/PORTFOLIO/Resume%20Vinay.pdf)
 
 - ❓ Ask me about anything related to DSA   
   
