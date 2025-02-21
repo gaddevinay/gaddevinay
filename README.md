@@ -10,7 +10,7 @@
   
 - 🌱 I’m currently learning DSA 
   
-- 👨‍💻 All of my projects are available at [My Portfolio](https://gaddevinay.github.io/PORTFOLIO/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://gaddevinay.vercel.app/)
 
 - 📫 How to reach me **vinaygadde2005@gmail.com**
 
