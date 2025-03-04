@@ -3,7 +3,7 @@
 
 
   
-### <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=25&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=700&height=50&lines=Hey%2C+I'm+Vinay+Welcome+to+my+Github+Profile!" align="middle" alt="Hey, I'm Vinay Welcome to my Profile! animated typed out">
+### <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=25&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=700&height=50&lines=Hey%2C+I'm+Vinay+Welcome+to+my+Github+Profile!" align="middle" alt="Hey 👋, I'm Vinay Welcome to my Profile! animated typed out">
 
 <img align="right" alt="procoder" src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="300" />  
 
