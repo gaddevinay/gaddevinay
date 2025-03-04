@@ -1,10 +1,11 @@
-
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
 
   
 ### <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=25&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=700&height=50&lines=Hey%2C+I'm+Vinay+Welcome+to+my+Github+Profile!" align="middle" alt="Hey, I'm Vinay Welcome to my Profile! animated typed out">
 
-  
+<img align="right" alt="procoder" src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="300" />  
 
 - 🔭 I’m currently working on [DSA]()  
   
