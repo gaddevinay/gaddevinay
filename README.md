@@ -5,7 +5,7 @@
   
 ### <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=25&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=700&height=50&lines=Hey+👋%2C+I'm+Vinay+Welcome+to+my+Github+Profile!" align="middle" alt="Hey 👋, I'm Vinay Welcome to my Profile! animated typed out">
 
-<img align="right" alt="procoder" src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="300" />  
+
 
 - 🔭 I’m currently working on [DSA]()  
   
@@ -18,7 +18,7 @@
 - 📄 Know about my experiences [Resume](https://gaddevinay.github.io/PORTFOLIO/Resume%20Vinay.pdf)
 
 - ❓ Ask me about anything related to DSA   
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"/>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400"/>
 
 <br/>  
 
